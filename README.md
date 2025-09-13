@@ -9,7 +9,7 @@ This system helps reduce food wastage while supporting communities in need.
 - Food Posting & Ordering System for easy listing and tracking of food availability   
 - Centralized Database for Donation Tracking and history records  
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Frontend: Java Swing, HTML  
 - Backend/Logic: Java  
 - Database: MySQL  
